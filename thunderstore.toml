@@ -1,0 +1,38 @@
+[config]
+schemaVersion = "0.0.1"
+
+
+[package]
+namespace = "Lotus_Ecarlate"
+name = "Lotus_Ecarlate_Lethal_Company"
+versionNumber = "0.0.1"
+description = "Custom Thunderstore modpack for Lotus Écarlate's private Valheim server. Nothing to see here, get to work employee!"
+websiteUrl = "https://github.com/nbusseneau/lotus-ecarlate-lethal-company-modpack"
+containsNsfwContent = false
+
+[package.dependencies]
+anormaltwig-LateCompany = "1.0.11"
+EliteMasterEric-Coroner = "1.6.2"
+BepInEx-BepInExPack = "5.4.2100"
+notnotnotswipez-MoreCompany = "1.8.1"
+RickArg-Helmet_Cameras = "2.1.5"
+stefan750-LCUltrawide = "1.1.1"
+Suskitech-AlwaysHearActiveWalkies = "1.4.4"
+tinyhoot-ShipLoot = "1.0.0"
+
+[build]
+icon = "./icon.png"
+readme = "./README.md"
+outdir = "./build"
+
+[[build.copy]]
+source = "./config"
+target = "./config"
+
+
+[publish]
+repository = "https://thunderstore.io"
+communities = [ "lethal-company", ]
+
+[publish.categories]
+lethal-company = [ "modpacks", ]
