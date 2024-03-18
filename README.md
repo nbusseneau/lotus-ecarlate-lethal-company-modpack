@@ -5,7 +5,7 @@ Nothing to see here, get to work employee!
 
 ## Installation
 
-- Télécharger et installer [**r2modman**](https://valheim.thunderstore.io/package/ebkr/r2modman/)
+- Télécharger et installer [**r2modman**](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/)
   - `Manual Download` > extraire zip > installer via `r2modman Setup X.X.X.exe`
 - Lancer **r2modman** et sélectionner le jeu **Lethal Company**
   - `Lethal Company` > `Select game`
