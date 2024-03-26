@@ -11,7 +11,7 @@ websiteUrl = "https://github.com/nbusseneau/lotus-ecarlate-lethal-company-modpac
 containsNsfwContent = false
 
 [package.dependencies]
-anormaltwig-LateCompany = "1.0.11"
+anormaltwig-LateCompany = "1.0.13"
 EliteMasterEric-Coroner = "1.6.2"
 BepInEx-BepInExPack = "5.4.2100"
 notnotnotswipez-MoreCompany = "1.8.1"
@@ -19,7 +19,7 @@ RickArg-Helmet_Cameras = "2.1.5"
 RugbugRedfern-Skinwalkers = "4.0.3"
 stefan750-LCUltrawide = "1.1.1"
 Suskitech-AlwaysHearActiveWalkies = "1.4.4"
-tinyhoot-ShipLoot = "1.0.0"
+tinyhoot-ShipLoot = "1.1.0"
 
 [build]
 icon = "./icon.png"
