@@ -5,7 +5,7 @@ Nothing to see here, get to work employee!
 
 ## Installation
 
-- Télécharger et installer [**r2modman**](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/)
+- Télécharger et installer [**r2modman** (lien cliquable)](https://thunderstore.io/c/lethal-company/p/ebkr/r2modman/). Instructions détaillées :
   - `Manual Download` > extraire zip > installer via `r2modman Setup X.X.X.exe`
 - Lancer **r2modman** et sélectionner le jeu **Lethal Company**
   - `Lethal Company` > `Select game`
