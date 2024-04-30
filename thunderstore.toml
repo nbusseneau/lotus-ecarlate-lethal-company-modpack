@@ -5,7 +5,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "Lotus_Ecarlate"
 name = "Lotus_Ecarlate_Lethal_Company"
-versionNumber = "0.2.1"
+versionNumber = "0.3.0"
 description = "Custom Thunderstore modpack for Lotus Écarlate's Lethal Company sessions. Nothing to see here, get to work employee!"
 websiteUrl = "https://github.com/nbusseneau/lotus-ecarlate-lethal-company-modpack"
 containsNsfwContent = false
